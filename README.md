@@ -1,10 +1,34 @@
-# ProductionAnalytics
-📊 **Interactive Production Analytics Dashboard** built with Power BI and SQL Server. KPI monitoring, production plan achievement, cost analysis, downtime tracking, and quality assessment using DAX. A portfolio project based on synthetic data.
-The repository includes the Power BI Desktop (.pbix) file, allowing users to explore the dashboard, data model, DAX measures, and visualizations.
+# 📊 Production Analytics Dashboard
 
-Technologies: Power BI, SQL Server 2019, DAX.
+An interactive **Production Analytics Dashboard** developed using Microsoft Power BI, SQL Server 2019, and DAX.
 
-Note: The dashboard uses synthetic production data, and its interface is in Polish. A local SQL Server connection may need to be reconfigured to refresh the data.
+The dashboard provides insights into production performance, planned vs. actual costs, downtime, and quality metrics.
+
+## 🛠️ Technologies
+- Microsoft Power BI
+- Microsoft SQL Server 2019
+- DAX
+- Data Modeling
+- Business Intelligence
+
+## 📈 Key Features
+- Production KPI monitoring
+- Planned vs. actual production analysis
+- Production cost analysis
+- Downtime and quality monitoring
+- Interactive year and month filters
+- Dynamic chart titles
+
 ## 📊 Dashboard Preview
 
-<img width="1046" height="591" alt="Dashboard_ProductionAnalytics" src="https://github.com/user-attachments/assets/72d8949f-30f2-4c0c-bfc8-54989f7ddd4c" />
+<img width="1046" height="591" alt="Dashboard_ProductionAnalytics" src="https://github.com/user-attachments/assets/72d8949f-30f2-4c0c-bfc8-549
+## 📁 Project Files
+
+The repository includes the Power BI Desktop (`.pbix`) file for exploring the report, data model, DAX measures, and visualizations.
+
+## 📌 Data Information
+
+This portfolio project uses **synthetic production data** for demonstration purposes. The dashboard interface is in Polish.
+
+A local SQL Server connection may need to be reconfigured to refresh the data.
+
