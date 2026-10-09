@@ -20,8 +20,8 @@ The dashboard provides insights into production performance, planned vs. actual 
 - Dynamic chart titles
 
 ## 📊 Dashboard Preview
+<img width="1046" height="591" alt="Dashboard_ProductionAnalytics" src="https://github.com/user-attachments/assets/83c6d838-9e7e-41c3-8334-7c638c3b4645" />
 
-<img width="1046" height="591" alt="Dashboard_ProductionAnalytics" src="https://github.com/user-attachments/assets/72d8949f-30f2-4c0c-bfc8-549
 ## 📁 Project Files
 
 The repository includes the Power BI Desktop (`.pbix`) file for exploring the report, data model, DAX measures, and visualizations.
