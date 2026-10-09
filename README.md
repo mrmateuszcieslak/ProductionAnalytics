@@ -3,4 +3,4 @@
 
 ## 📊 Dashboard Preview
 
-![Production Analytics Dashboard](dashboard.png)
+<img width="1046" height="591" alt="Dashboard_ProductionAnalytics" src="https://github.com/user-attachments/assets/72d8949f-30f2-4c0c-bfc8-54989f7ddd4c" />
