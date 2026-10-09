@@ -38,6 +38,7 @@ The repository includes the Power BI Desktop (`.pbix`) file for exploring the re
 ## 🗂️ Data Model
 
 The report uses a production fact table (`FactProdukcja`) connected to a date dimension (`DimData`) through `DataID`, enabling consistent time-based analysis.
+
 <img width="866" height="542" alt="obraz" src="https://github.com/user-attachments/assets/3fadd1c3-66e6-40f2-895e-2f93321bfba4" />
 
 
